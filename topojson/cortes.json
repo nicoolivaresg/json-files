@@ -15,8 +15,7 @@
                         "Id": 0,
                         "Región": "Región de Arica y Parinacotá",
                         "Nombre": "Corte de Apelaciones de Arica",
-                        "Cód_Juris": 15,
-                        "Color": "#59b117"
+                        "cod_jurisd": 15
                     }
                 },
                 {
@@ -29,8 +28,7 @@
                         "Id": 0,
                         "Región": "Región de Tarapacá",
                         "Nombre": "Corte de Apelaciones de Iquique",
-                        "Cód_Juris": 1,
-                        "Color": "#ff3237"
+                        "cod_jurisd": 1
                     }
                 },
                 {
@@ -43,8 +41,7 @@
                         "Id": 0,
                         "Región": "Región de Antofagasta",
                         "Nombre": "Corte de Apelaciones de Antofagasta",
-                        "Cód_Juris": 2,
-                        "Color": "#00acd6"
+                        "cod_jurisd": 2
                     }
                 },
                 {
@@ -57,8 +54,7 @@
                         "Id": 0,
                         "Región": "Región de Atacama",
                         "Nombre": "Corte de Apelaciones de Copiapó",
-                        "Cód_Juris": 3,
-                        "Color": "#FF9500"
+                        "cod_jurisd": 3
                     }
                 },
                 {
@@ -71,8 +67,7 @@
                         "Id": 0,
                         "Región": "Región de Coquimbo",
                         "Nombre": "Corte de Apelaciones La Serena",
-                        "Cód_Juris": 4,
-                        "Color": "#AD0981"
+                        "cod_jurisd": 4
                     }
                 },
                 {
@@ -85,8 +80,7 @@
                         "Id": 0,
                         "Región": "Región de Valparaiso",
                         "Nombre": "Corte de Apelaciones de Valparaiso",
-                        "Cód_Juris": 5,
-                        "Color": "#0729A8"
+                        "cod_jurisd": 5
                     }
                 },
                 {
@@ -99,8 +93,7 @@
                         "Id": 0,
                         "Región": "Región Metropolitana",
                         "Nombre": "Corte de Apelaciones de Santiago",
-                        "Cód_Juris": 13,
-                        "Color": "#D2E627"
+                        "cod_jurisd": 13
                     }
                 },
                 {
@@ -113,8 +106,7 @@
                         "Id": 0,
                         "Región": "Región Metropolitana",
                         "Nombre": "Corte de Apelaciones de San Miguel",
-                        "Cód_Juris": 17,
-                        "Color": "#E6106E"
+                        "cod_jurisd": 17
                     }
                 },
                 {
@@ -127,8 +119,7 @@
                         "Id": 0,
                         "Región": "Región Libertador Bernardo O'Higgins",
                         "Nombre": "Corte de Apelaciones de Rancagua",
-                        "Cód_Juris": 6,
-                        "Color": "#54FFE2"
+                        "cod_jurisd": 6
                     }
                 },
                 {
@@ -141,8 +132,7 @@
                         "Id": 0,
                         "Región": "Región del Maule",
                         "Nombre": "Corte de Apelaciones de Talca",
-                        "Cód_Juris": 7,
-                        "Color": "#8F620E"
+                        "cod_jurisd": 7
                     }
                 },
                 {
@@ -155,8 +145,7 @@
                         "Id": 0,
                         "Región": "Región de Ñuble",
                         "Nombre": "Corte de Apelaciones de Chillán",
-                        "Cód_Juris": 16,
-                        "Color": "#EB00DA"
+                        "cod_jurisd": 16
                     }
                 },
                 {
@@ -169,8 +158,7 @@
                         "Id": 0,
                         "Región": "Región del Biobío",
                         "Nombre": "Corte de Apelaciones de Concepción",
-                        "Cód_Juris": 8,
-                        "Color": "#DB9514"
+                        "cod_jurisd": 8
                     }
                 },
                 {
@@ -182,9 +170,8 @@
                     "properties": {
                         "Id": 0,
                         "Región": "Región de la Araucanía",
-                        "Nombre": "Corte de Apelaciones de temuco",
-                        "Cód_Juris": 9,
-                        "Color": "#94E809"
+                        "Nombre": "Corte de Apelaciones de Temuco",
+                        "cod_jurisd": 9
                     }
                 },
                 {
@@ -197,8 +184,7 @@
                         "Id": 0,
                         "Región": "Región de Los Ríos",
                         "Nombre": "Corte de Apelaciones de Valdivia",
-                        "Cód_Juris": 14,
-                        "Color": "#ECF567"
+                        "cod_jurisd": 14
                     }
                 },
                 {
@@ -211,8 +197,7 @@
                         "Id": 0,
                         "Región": "Región de Los Lagos",
                         "Nombre": "Corte de Apelaciones de Puerto Montt",
-                        "Cód_Juris": 10,
-                        "Color": "#EB6160"
+                        "cod_jurisd": 10
                     }
                 },
                 {
@@ -225,8 +210,7 @@
                         "Id": 0,
                         "Región": "Región de Aysén del Gral.Ibañez del Campo",
                         "Nombre": "Corte de Apelaciones de Coyhaique",
-                        "Cód_Juris": 11,
-                        "Color": "#52DBB7"
+                        "cod_jurisd": 11
                     }
                 },
                 {
@@ -239,8 +223,7 @@
                         "Id": 0,
                         "Región": "Región de Magallanes y Antártica Chilena",
                         "Nombre": "Corte de Apelaciones de Punta Arenas",
-                        "Cód_Juris": 12,
-                        "Color": "#D7A2EB"
+                        "cod_jurisd": 12
                     }
                 }
             ]
